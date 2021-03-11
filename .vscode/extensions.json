@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "kevinrose.vsc-python-indent",
+        "batisteo.vscode-django",
+        "lonefy.vscode-js-css-html-formatter",
+        "esbenp.prettier-vscode"
+    ]
+}
